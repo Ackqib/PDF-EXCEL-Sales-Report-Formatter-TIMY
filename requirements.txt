@@ -1,0 +1,4 @@
+pdfplumber
+openpyxl
+xlrd
+tkinterdnd2
